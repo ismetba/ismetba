@@ -30,6 +30,6 @@ ASP .NET konusunda tecrübeli bir yazılımcı olarak size şunlarda yardımcı 
 - Mediatör deseniyle temiz mimari kurallarına uygun kod yazılması
 - Docker ile konteynerize uygulamaların hazırlanması
 - Angular ile dinamik web sayfalarının geliştirilmesi
-- Node.js ile RESTful API'lerin oluşturulması
+- .NET ile RESTful API'lerin oluşturulması
 - Tasarım araçlarıyla modern ve estetik görünümlü web sayfalarının tasarlanması
 - Bootstrap ve Tailwind CSS ile responsive web sayfalarının kodlanması
