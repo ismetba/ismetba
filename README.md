@@ -18,7 +18,7 @@ Web geliştirmenin yanında Angular, React ve Node.js ile de ilgilendim. Front-e
 
 Veritabanları konusunda da PostgreSQL ve MSSQL'i kullandım. PostgreSQL'in açık kaynaklı olması ve performanslı olması beni cezbetti. MSSQL ise Microsoft'un sunduğu güvenilir bir veritabanı yönetim sistemi olduğu için tercih ettim.
 
-Tasarım yapmayı da seviyorum ve Adobe XD, Adobe Illustrator, Figma gibi araçlarla harika tasarımlar ortaya çıkardığım oldu. Bootstrap ve Tailwind CSS ile de tasarımlarımı hayata geçirdim.
+Tasarım yapmayı da seviyorum ve Adobe XD, Figma, Adobe Illustrator, Adobe Photoshop gibi araçlarla harika tasarımlar ortaya çıkardığım oldu.
 
 ## Neler Yapabilirim?
 
