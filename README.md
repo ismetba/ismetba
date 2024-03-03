@@ -22,7 +22,7 @@ Here are some of the things I love to tinker with:
 - Exploring design patterns
 - Getting cozy with Vim
 - Exploring the Linux world
-
+<!---
 ## Projects & Contributions 💼
 
 I've had the pleasure of collaborating on some fantastic open-source projects:
@@ -30,7 +30,7 @@ I've had the pleasure of collaborating on some fantastic open-source projects:
 1. [Project Name](link): Adding features and squashing bugs with an awesome community. 💡
 2. [Project Name](link): Bringing a splash of color to codebases everywhere. 🎨
 3. [Project Name](link): Building relationships as strong as our code. 💻
-
+-->
 ## Let's Connect! 📫
 
 - GitHub: [https://www.github.com/ismetba](https://www.github.com/ismetba)
