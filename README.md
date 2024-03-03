@@ -1,35 +1,40 @@
-# Merhaba Github 👋
+# Hello there! 👋
 
-Ben Ismet ve burada sizlerle ASP .NET konusundaki tecrübelerimi paylaşıyorum. ASP .NET ile birlikte Entity Framework, RabbitMQ, MediatR, Docker, Angular, Node.js, PostgreSQL, MSSQL gibi teknolojileri de kullanarak web uygulamaları geliştiriyorum.
+Welcome to my GitHub profile! I'm **Ismet Bayandur**, and I'm thrilled to have you here. This little corner of the internet is where I dive into the world of open-source projects, coding adventures, and all things tech!
 
-Ayrıca tasarım yapmayı da seviyorum ve Adobe XD, Adobe Illustrator, Figma gibi araçlarla harika tasarımlar ortaya çıkarabiliyorum. Bootstrap ve Tailwind CSS ile de tasarımlarımı hayata geçiriyorum.
+## About Me 🚀
 
-Kodlamayla ilgili öğrenmeye ve öğretmeye açık biriyim. Açık kaynaklı projelere katkıda bulunmak ve diğer geliştiricilerle işbirliği yapmak istiyorum. Eğer benimle aynı ilgi alanlarını paylaşıyorsanız veya projelerim hakkında konuşmak istiyorsanız bana ulaşmaktan çekinmeyin.
+- **Name:** Ismet Bayandur
+- **Location:** Kahramanmaraş, Türkiye
+- **Passions:** Writing code, exploring new tech trends, and savoring every cup of coffee! ☕️
+- **Favorite Languages:** Go, C#, and a sprinkle of emoji language for fun! 😉
 
-Hepinize mutlu kodlamalar dilerim 😊
+## Skills & Interests 🛠️
 
-## Ben Kimim?
+Here are some of the things I love to tinker with:
 
-Yazılıma lise yıllarında başladım. O zamanlar arduino ile basit programlar yazarak kendimi eğlendiriyordum. Üniversitede Bilgisayar Programcılığı okudum ve orada  C#, Visual Basic gibi dilleri öğrendim. Aynı zamanda web geliştirme ile tanıştım ve HTML, CSS, JavaScript gibi teknolojileri kullanmaya başladım.
+- Building RESTful APIs
+- Getting creative with Go
+- Crafting solutions with C#
+- Playing around with GORM and Entity Framework
+- Adding security with JWT
+- Embracing SOLID principles
+- Exploring design patterns
+- Getting cozy with Vim
+- Exploring the Linux world
 
-Üniversite sonrasında ASP .NET ile profesyonel olarak çalışmaya başladım. Çeşitli sektörlerde farklı projelerde yer aldım. Bu süreçte Entity Framework, RabbitMQ, MediatR gibi araçları da öğrendim ve kullandım. Ayrıca Docker ile konteynerize uygulamalar geliştirdim.
+## Projects & Contributions 💼
 
-Web geliştirmenin yanında Angular, React ve Node.js ile de ilgilendim. Front-end tarafında daha iyi bir kullanıcı deneyimi sunmak için Angular'ın sunduğu avantajlardan yararlandım. Back-end tarafında ise .NET  ile RESTful API'ler oluşturdum.
+I've had the pleasure of collaborating on some fantastic open-source projects:
 
-Veritabanları konusunda da PostgreSQL ve MSSQL'i kullandım. PostgreSQL'in açık kaynaklı olması ve performanslı olması beni cezbetti. MSSQL ise Microsoft'un sunduğu güvenilir bir veritabanı yönetim sistemi olduğu için tercih ettim.
+1. [Project Name](link): Adding features and squashing bugs with an awesome community. 💡
+2. [Project Name](link): Bringing a splash of color to codebases everywhere. 🎨
+3. [Project Name](link): Building relationships as strong as our code. 💻
 
-Tasarım yapmayı da seviyorum ve Adobe XD, Figma, Adobe Illustrator, Adobe Photoshop gibi araçlarla harika tasarımlar ortaya çıkardığım oldu.
+## Let's Connect! 📫
 
-## Neler Yapabilirim?
+- GitHub: [https://www.github.com/ismetba](https://www.github.com/ismetba)
+- LinkedIn: [https://www.linkedin.com/in/ismetbyndr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/ismetbyndr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: [ismet3170766@gmail.com](mailto:ismet3170766@gmail.com)
 
-ASP .NET konusunda tecrübeli bir yazılımcı olarak size şunlarda yardımcı olabilirim:
-
-- Web uygulamalarının tasarlanması ve geliştirilmesi
-- Veritabanlarıyla entegre çalışan uygulamaların oluşturulması
-- Mesaj kuyruklarıyla asenkron işlemlerin gerçekleştirilmesi
-- Mediatör deseniyle temiz mimari kurallarına uygun kod yazılması
-- Docker ile konteynerize uygulamaların hazırlanması
-- Angular ile dinamik web sayfalarının geliştirilmesi
-- .NET ile RESTful API'lerin oluşturulması
-- Tasarım araçlarıyla modern ve estetik görünümlü web sayfalarının tasarlanması
-- Bootstrap ve Tailwind CSS ile responsive web sayfalarının kodlanması
+Feel free to drop me a line! I'm always up for chatting about coding, tech, or anything else that sparks your interest. Let's dive into the world of code together! 🎉
