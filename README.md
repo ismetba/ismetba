@@ -34,7 +34,7 @@ I've had the pleasure of collaborating on some fantastic open-source projects:
 ## Let's Connect! 📫
 
 - GitHub: [https://www.github.com/ismetba](https://www.github.com/ismetba)
-- LinkedIn: [https://www.linkedin.com/in/ismetbyndr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/ismetbyndr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismetbyndr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: [ismet3170766@gmail.com](mailto:ismet3170766@gmail.com)
 
 Feel free to drop me a line! I'm always up for chatting about coding, tech, or anything else that sparks your interest. Let's dive into the world of code together! 🎉
