@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm **Ismet Bayandur**, and I'm thrilled to have y
 ## About Me 🚀
 
 - **Name:** Ismet Bayandur
-- **Location:** Kahramanmaraş, Türkiye
+- **Location:** İstanbul, Türkiye
 - **Passions:** Writing code, exploring new tech trends, and savoring every cup of coffee! ☕️
-- **Favorite Languages:** Go, C#, and a sprinkle of emoji language for fun! 😉
+- **Favorite Languages:** Go, C#, C, and a sprinkle of emoji language for fun! 😉
 
 ## Skills & Interests 🛠️
 
@@ -35,6 +35,6 @@ I've had the pleasure of collaborating on some fantastic open-source projects:
 
 - GitHub: [https://www.github.com/ismetba](https://www.github.com/ismetba)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ismetbyndr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: [ismet3170766@gmail.com](mailto:ismet3170766@gmail.com)
+- Email: [byndrismet@gmail.com](mailto:byndrismet@gmail.com)
 
 Feel free to drop me a line! I'm always up for chatting about coding, tech, or anything else that sparks your interest. Let's dive into the world of code together! 🎉
